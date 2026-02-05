@@ -3,7 +3,7 @@ Background Color Changer is a React application that allows users to dynamically
 
 ## 🚀 Live Demo
 
-🔗 **Live Site:** background-color-changer-react.pages.dev
+🔗 **Live Site:** https://background-color-changer-react.pages.dev
 
 
 Hosted on **Cloudflare Pages**
